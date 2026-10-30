@@ -15,6 +15,7 @@ Foco em diagnosticar, resolver e documentar, com atendimento claro e organizado.
 - **Suporte:** atendimento de chamados (N1), troubleshooting, documentação
 - **Redes:** fundamentos de redes, endereçamento, infraestrutura
 - **Sistemas:** Windows e Linux
+- **Web:** HTML, CSS e JavaScript
 - **Automação:** Bash e PowerShell (em estudo)
 - **IA aplicada:** NotebookLM e engenharia de prompt
 
@@ -22,9 +23,10 @@ Foco em diagnosticar, resolver e documentar, com atendimento claro e organizado.
 
 | Projeto | Descrição |
 |---|---|
-| [guia-de-estudos-jovem-investidor](https://github.com/diegorezz/guia-de-estudos-jovem-investidor) | Guia para investidores iniciantes criado com GenAI (NotebookLM) |z
+| [dev-oraculo-tarot-app](https://github.com/diegorezz/dev-oraculo-tarot-app) | App web responsivo com tiragem interativa, ritual diário e gestor de tarefas. HTML, CSS e JavaScript. [Ver demo](https://diegorezz.github.io/dev-oraculo-tarot-app/) |
+| [guia-de-estudos-jovem-investidor](https://github.com/diegorezz/guia-de-estudos-jovem-investidor) | Guia para investidores iniciantes criado com GenAI (NotebookLM) |
 
 ## 📫 Contato
 
-- LinkedIn:https://www.linkedin.com/in/hudson-silva-08501b410?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
-- E-mail: hs.rezz@hotmail.com
+- LinkedIn: [adicione seu link aqui]
+- E-mail: [adicione seu e-mail aqui]
