@@ -28,5 +28,5 @@ Foco em diagnosticar, resolver e documentar, com atendimento claro e organizado.
 
 ## 📫 Contato
 
-- LinkedIn: [adicione seu link aqui]
-- E-mail: [adicione seu e-mail aqui]
+- LinkedIn: https://www.linkedin.com/in/hudson-silva-08501b410?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- E-mail: hs.rezz@hotmail.com
