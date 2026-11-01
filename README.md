@@ -26,6 +26,7 @@ Foco em diagnosticar, resolver e documentar, com atendimento claro e organizado.
 |---|---|
 | [dev-oraculo-tarot-app](https://github.com/diegorezz/dev-oraculo-tarot-app) | App web responsivo com tiragem interativa, ritual diário e gestor de tarefas. HTML, CSS e JavaScript. [Ver demo](https://diegorezz.github.io/dev-oraculo-tarot-app/) |
 | [guia-de-estudos-jovem-investidor](https://github.com/diegorezz/guia-de-estudos-jovem-investidor) | Guia para investidores iniciantes criado com GenAI (NotebookLM) |
+| [App-imutavel-studio-completo](https://github.com/diegorezz/App-imutavel-studio-completo) | Studio App de criação de vídeos sobre Autoconhecimento e Consciência através de um Agente IA especializado. |
 
 ## 📫 Contato
 
