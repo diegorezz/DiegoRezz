@@ -17,8 +17,9 @@ Foco em diagnosticar, resolver e documentar, com atendimento claro e organizado.
 - **Redes:** fundamentos de redes, endereçamento, infraestrutura
 - **Sistemas:** Windows e Linux
 - **Web:** HTML, CSS e JavaScript
-- **Automação:** Bash e PowerShell (em estudo)
+- **Automação:** Bash (em estudo)
 - **IA aplicada:** NotebookLM e engenharia de prompt
+- **Projetos Pessoais**
 
 ## 📂 Projetos em destaque
 
